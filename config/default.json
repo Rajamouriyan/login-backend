@@ -1,0 +1,4 @@
+{
+    "mongoURI":
+    "mongodb+srv://raja:raja456@cluster0.gnv6gxb.mongodb.net/authDB?retryWrites=true&w=majority"
+  }
